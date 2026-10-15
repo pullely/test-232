@@ -1,0 +1,11 @@
+{
+  "reponame": "test-232",
+  "productname": "test-232",
+  "productdomain": "test-232.com",
+  "apibaseurl": "https://api.test-232.com",
+  "subdomain": "rahulvarghesepullely",
+  "orunWorkspace": "org_bf50aa26e302472591b6c61ddb4b8ee5",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
